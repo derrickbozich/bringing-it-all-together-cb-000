@@ -49,6 +49,7 @@ class Dog
     binding.pry
     dog
   end
+  
 
   def update
   sql = <<-SQL
